@@ -42,10 +42,10 @@
             <version>1.6.2</version>
         </dependency>
 
+
+</dependencies>
 <properties>
   <sonar.organization>software-ibtihaj-nada</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
-</dependencies>
-
 </project>
